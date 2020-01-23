@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/slotprofile.png
 title: Mini Game Party
 permalink: projects/minigameparty
 # All dates must be YYYY-MM-DD format!
@@ -20,19 +20,19 @@ While it was somewhat daunting at first, especially for something that could hav
 Here's a look at some of the games running itself:
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/dice game.png">
 </div>
 
 This is the dice game, a very simple dice rolling game that compares your dice against the opponent. You get 3 dice and random choose to remove 1 of them. Your other 2 dice are revealed, and if either of them are higher than the opponent's dice, you win the round. The goal is to win one game within five rounds.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/guessing game.png">
 </div>
 
 This is the classic guess the number game. It's a bit more thought provoking and requires a bit more thought to actually win this one instead of pure chance. The program will generate a random number between 1 and 1000 and the player will have 15 guesses to narrow it down. After each guess it'll tell you whether the number was higher or lower.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/slots.png">
 </div>
 
 Lastly, we have a slot machine. This is the most simple mechanically, but probably the most complex in terms of visuals and code. It asks the player how many coins they want to bet between 1 and 3, and the slot machine spits out 3 symbols. Based on the matching symbols there's different payouts or none at all. Under the hood of the game, the program is built to work similarly to a real slot machine and has 3 reels which have differering amounts of each symbol on them. This creates the varying probability of each outcome and means the chances are weighted differently.
