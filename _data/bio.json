@@ -2,7 +2,7 @@
   "basics": {
     "name": "Michael Chun",
     "label": "Student",
-    "picture": "https://mhkfchun.github.io/template/images/profilepic.jpg",
+    "picture": "https://github.com/mhkfchun/mhkfchun.github.io/blob/master/images/profilepic.jpg",
     "email": "mhkfchun@hawaii.edu",
     "phone": "808-927-5877",
     "website": "https://mhkfchun.github.io",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "mhkfchun",
-        "url": "http://linkedin.com/in/mhkfchun"
+        "url": "https://www.linkedin.com/in/michael-chun-72a68219b/"
       }
     ]
   },
