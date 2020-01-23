@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/morseCode.png
-title: Morse-Code-Translator
+title: Morse Code Translator
 permalink: projects/morsecodetranslator
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-25
