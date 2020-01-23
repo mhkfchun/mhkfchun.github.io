@@ -79,4 +79,4 @@ Here is some code that shows the generation of the random slot reels, part of th
 ```
 
 
-The C program and makefile can be found [here](())
+The C program and makefile can be found [here]((http://bit.ly/2Rid7hY))
