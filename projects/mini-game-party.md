@@ -13,9 +13,9 @@ labels:
 summary: Using tools I learned in the first month of ICS 212, I implemented a multi-game program in C.
 ---
 
-The goal of this assignment was to make use of at least 5 different functions and techniques learned during our ICS 212 class up to that point in C. Though as long as we used the same function in different ways, we were able to make use of the same things multiple times. Though others may have come up with more simple and practical applications, I've always had a fascination with games and enjoy coming up with ways to implement them. Of course this was the first thing I could think of.
+The goal of this assignment was to make use of at least 5 different functions and techniques learned during our ICS 212 class up to that point in C. Though as long as we used the same function in different ways, we were able to make use of the same things multiple times. While others may have come up with more simple and practical applications, I've always had a fascination with games and enjoy coming up with ways to implement them. Of course this was the first thing I could think of so I got right to work.
 
-While it was somewhat daunting at first, especially for something that could have been much simpler in scale for what was required, I couldn't picture myself doing anything else and powered through. The program itself is pretty straightforward. Upon startup it asks the user to pick a game and then plays the game with the user after explaining the rules. After the game is completed it asks the user if it would like to keep playing and either resets the game and continues or closes itself.
+While it was daunting at first, especially for something that could have been much simpler in scale for what was required, I couldn't picture myself doing anything else and powered through. The program itself is pretty straightforward. Upon startup it asks the user to pick a game and then plays the game with the user after explaining the rules. After the game is completed it asks the user if it would like to keep playing and either resets the game and continues or closes itself.
 
 Here's a look at some of the games running itself:
 
@@ -36,6 +36,8 @@ This is the classic guess the number game. It's a bit more thought provoking and
 </div>
 
 Lastly, we have a slot machine. This is the most simple mechanically, but probably the most complex in terms of visuals and code. It asks the player how many coins they want to bet between 1 and 3, and the slot machine spits out 3 symbols. Based on the matching symbols there's different payouts or none at all. Under the hood of the game, the program is built to work similarly to a real slot machine and has 3 reels which have differering amounts of each symbol on them. This creates the varying probability of each outcome and means the chances are weighted differently.
+
+Through finally finishing this project and seeing it complete, I was able to see more clearly how to start putting various tools together and different applications of them. Through the slot machine it also helped me get more practice in at building a visual interface and presentation. It was also a great way to see how expansive I could get with my projects in a limited amount of time.
 
 Here is some code that shows the generation of the random slot reels, part of the ASCII being built on screen, and how reel 1 decides what to display and represent for payouts:
 
@@ -77,4 +79,4 @@ Here is some code that shows the generation of the random slot reels, part of th
 ```
 
 
-
+The C program and makefile can be found [here](())
