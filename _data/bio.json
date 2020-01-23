@@ -6,7 +6,7 @@
     "email": "mhkfchun@hawaii.edu",
     "phone": "808-927-5877",
     "website": "https://mhkfchun.github.io",
-    "summary": "I'm a student working on a BA in Information Computer Science at UH Manoa. I have been learning multiple coding languages, database management, and computer maintenance through my classes.",
+    "summary": "I'm a student enrolled at UH Manoa working on a B.A. in Information Computer Science and intending on graduating Spring 2023.",
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -43,6 +43,12 @@
       "keywords": [
         "Coding",
         "User Interface"
+      ]
+    },
+    {
+      "name": "database maintenance",
+      "keywords": [
+        "Structure"
       ]
     }
   ],
