@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/lettercount.png
-title: Letter-Counter
+title: Letter Counter
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-15
