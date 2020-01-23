@@ -19,13 +19,13 @@ While it was somewhat daunting at first, especially for something that could hav
 
 Here's a look at some of the games running itself:
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/dice game.png">
 </div>
 
 This is the dice game, a very simple dice rolling game that compares your dice against the opponent. You get 3 dice and random choose to remove 1 of them. Your other 2 dice are revealed, and if either of them are higher than the opponent's dice, you win the round. The goal is to win one game within five rounds.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/guessing game.png">
 </div>
 
