@@ -31,7 +31,7 @@ This is the dice game, a very simple dice rolling game that compares your dice a
 
 This is the classic guess the number game. It's a bit more thought provoking and requires a bit more thought to actually win this one instead of pure chance. The program will generate a random number between 1 and 1000 and the player will have 15 guesses to narrow it down. After each guess it'll tell you whether the number was higher or lower.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/slots.png">
 </div>
 
