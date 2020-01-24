@@ -21,4 +21,4 @@ Theres a saying that goes, "If you give a man a fish, he eats for a day. If you 
 
 <img class="ui medium center floated image" src="../images/fishing.jpg">
 
-## I have been given a lot of fish, now I am ready to start fishing.
+## I have been given a lot of fish, now I'm ready to start fishing.
