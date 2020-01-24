@@ -69,10 +69,31 @@
   ],
   "education": [
     {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Instructional AS/ICS/DSSP (Primary)",
+      "studyType": "",
+      "startDate": "2011-09-01",
+      "endDate": "2019",
+      "gpa": "3.34",
+      "courses": [
+        "ICS111 Intro Comp Sci I",
+        "ICS113 Database Fundamentals",
+        "ICS125 Personal Comp Maint & Repair",
+        "ICS141 Discrete Math",
+        "ICS151 Struct Database Programming",
+        "ICS184 Introduction to Networking",
+        "ICS211 Intro Comp Sci II",
+        "ICS212 Program Structure",
+        "ICS215 Intro to Scripting",
+        "ICS240 Operating Systems",
+        "ICS241 Discrete Math II"
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.A.",
-      "startDate": "2011-09-01",
+      "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,8 +116,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Available upon request"
     }
   ]
 }
