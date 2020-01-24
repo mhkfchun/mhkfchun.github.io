@@ -21,7 +21,7 @@ It's **liberating.**
 
 Put simply, I didn't need to worry about clarifying whether something is a number, a letter, a line of text, or otherwise.
 
-##How I feel about javascript
+## How I feel about javascript
 
 <img class="ui tiny left circular floated image" src="../images/genericcode.jpg">
 
