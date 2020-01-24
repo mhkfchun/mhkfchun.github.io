@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Round Two
+title: Round Two With Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
@@ -27,4 +27,4 @@ There's always room for improvement and learning things like ES6 definitely coun
 
 Overall the javascript seems like it has the potential to be a good software engineering language. It's built to work in things like webpages, so it's already a good starting point for interacting with other applications and services. It's also a seemingly straightforward language compared to some other languages that are more picky that may get in the way of working properly. This could also be seen as a downside depending on how sloppy the code gets. It may be more easy to run into issues in that sense, though that is more human error at that point.
 
-Athlethic software engineering and the practice WOD are new to me, but I see the long term benefits if I keep at it. WOD, or Workout Of the Day, is a timed practice problem that the class is asked to solve. When you are given a time limit and being put into a more pressured situation is scary, but it's also good practice for working under pressure and keeping your brain running until the very end. Distractions, typos, and other poor habits all work against you in these sessions and they make for a good trial under fire type of deal. As long as I keep up with the class and understand what I'm doing, I think the WOD's will be a good step towards getting better at coding in general.
+Athlethic software engineering and the practice WOD are new to me, but I see the long term benefits if I keep at it. WOD, or Workout Of the Day, is a timed practice problem that the class is asked to solve. When you are given a time limit and being put into a more pressured situation is scary, but it's also good practice for working under pressure and keeping your brain running until the very end. Distractions, typos, and other poor habits all work against you in these sessions and they make for a good trial under fire type of deal. They also teach you to read carefully and pick out the important details so you can process the information faster. As long as I keep up with the class and understand what I'm doing, I think the WOD's will be a good step towards getting better at coding in general.
