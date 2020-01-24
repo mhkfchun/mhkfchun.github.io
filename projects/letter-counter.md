@@ -12,6 +12,8 @@ labels:
 summary: An ICS 212 assignment that reads input text or a text file and displays the amount of times a letter was used.
 ---
 
+<img class="ui medium right floated rounded image" src="/images/lettercount.png">
+
 The Letter Counter was made as an assignment to help us both get used to parsing text files as well as learn how reading characters works in C. The program reads the input or text file and checks the character used and updates an array counter accordingly. Finally displaying to the user the number of times the letters are used.
 
 This program was a good learning experience for manipulating characters during a program and how to cheat and apply different characters to be recognized as the same. In this case reading uppercase and lowercase letters similarly. Otherwise it was a good exercise at reading in text and practice with arrays.
