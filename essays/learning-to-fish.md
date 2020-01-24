@@ -19,6 +19,6 @@ By the end of this course, I hope to have a better real world understanding of w
 
 Theres a saying that goes, "If you give a man a fish, he eats for a day. If you teach him how to fish, he eats for a lifetime."
 
-<img class="ui medium center floated image" src="../images/fishing.jpg">
+<img class="ui small center floated image" src="../images/fishing.jpg">
 
 ## I have been given a lot of fish, now I'm ready to start fishing.
