@@ -31,7 +31,7 @@ Personally I think I'm pretty good at keeping track of my code and being able to
 
 <img class="ui tiny left circular floated image" src="../images/checkerblock.jpg">
 
-There's always room for improvement and learning things like ES6 definitely count. Having a guideline for how to code and format it all properly is really handy and makes it easier to pick up another peron's code and read it. Some of the more basic things like using const and let to declare variables were thankfully taught in other classes for things like C and C++, so I'm not unfamiliar with them. The different naming conventions for different structures and formatting may take a little while though. Not typing double quotes instead of single quoatations is something I definitely haven't gotten used to and it's hard to not instinctively hit shift before I start a string.
+There's always room for improvement and learning things like ES6 definitely count. Having a guideline for how to code and format it all properly is really handy and makes it easier to pick up another person's code and read it. Some of the more basic things like using const and let to declare variables were thankfully taught in other classes for things like C and C++, so I'm not unfamiliar with them. The different naming conventions for different structures and formatting may take a little while though. Not typing double quotes instead of single quoatations is something I definitely haven't gotten used to and it's hard to not instinctively hit shift before I start a string.
 
 ## Javascript as a software engineering language
 
