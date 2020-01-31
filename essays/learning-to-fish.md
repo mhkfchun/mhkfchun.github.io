@@ -10,6 +10,9 @@ labels:
 ---
 
 ## Why software development?
+
+<img class="ui medium center floated image" src="../images/space-invaders.jpg">
+
 From a young age I had always been fascinated with applications, games, and other types of software that let you create something of your own. Things like old 90's computer programs that let you draw and make interactive slideshows, text document programs that run in the command line, or even languages like Python or Perl. For a long time I had been interested in the simple act of creating, making small programs or games with them. However, I recently started to see the bigger picture and want to learn more. I want to see how to apply what I spent all this time learning.
 
 ## What can I learn?
