@@ -13,7 +13,7 @@ Throughout my years of school, there's been multiple cases of teachers encouragi
 
 ## Why smart questions?
 
-<img class="ui medium center floated image" src="../images/fishing.jpg">
+<img class="ui medium center floated image" src="../images/woman-question.jpg">
 
 We live in a modern fast-paced world where time is a hot commodity. Whether it's spending it making money, doing something we find fun like a hobby, spending time with friends and family, or just relaxing, we can't afford to waste it. So imagine going out of your way to answer someone who asks you, "What are your work hours?" when the store hours are directly in front of them in plain sight.
 
