@@ -21,10 +21,10 @@ Maybe in this situation you still reply respectfully, it's probably your job aft
 
 This is where asking questions smartly and succinctly comes in. There's a lot to think about when asking a good question.
 
-..*Does it get your point across?
-..*Have you explained everything required to answer your question?
-..*Have you done everything you can to get an answer yourself? 
-..*Is your question easy to understand?
+* Does it get your point across?
+* Have you explained everything required to answer your question?
+* Have you done everything you can to get an answer yourself? 
+* Is your question easy to understand?
 
 Using Stack Overflow as an example, we can look at questions that embody both the good and the bad.
 
