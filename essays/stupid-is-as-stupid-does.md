@@ -78,6 +78,8 @@ The responses speak for themselves. Double digit answers, all explaining what th
 
 ## In conclusion
 
+<img class="ui medium center floated image" src="../images/the-thinker.jpg">
+
 I hope this dive into what makes a good question has come in handy and helps you make smarter choices in what you ask. I know looking into what makes a good question will cause me to think twice before I open my mouth. Asking smarter questions leads to better answers which leads to a better grasp of the subject. In turn that can help others find better answers in the future. If we all do our part in asking the right questions, everybody wins. That way, we avoid making a fool of ourselves.
 
 After all, stupid is as stupid does.
