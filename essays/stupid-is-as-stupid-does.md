@@ -58,7 +58,7 @@ The asker goes too far in the opposite direction and gives way too much with the
 
 ## Bad responses
 
-Looking at the type of comments received, it's also apparent that things could have gone better. Though he does get a few answers to his question, the comments on his question itself are all just different critiques on the question itself. Most explaining similar things brought up here. In fact, the comments critiquing his question are more than double the number of answers themselves.
+Looking at the type of comments received, it's also apparent that things could have gone better. Though he does get a few answers to his question, the comments on his question are all just different critiques on the question itself. Most explaining similar things brought up here. In fact, the comments critiquing his question are more than double the number of answers themselves.
 
 ## What you should do
 
