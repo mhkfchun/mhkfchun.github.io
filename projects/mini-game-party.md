@@ -52,7 +52,8 @@ Here is some code that shows the generation of the random slot reels, part of th
       printf("|-------------------|  |\n");
 
       //Displays an orange in the first slot if number is 1-5
-      if (slotOne == 1 || slotOne == 2 || slotOne == 3 || slotOne == 4 || slotOne == 5) {
+      if (slotOne == 1 || slotOne == 2 || slotOne == 3 || slotOne == 4 ||
+      slotOne == 5) {
         printf("| (`) ||");
         slotOneFace = 1;
       }
