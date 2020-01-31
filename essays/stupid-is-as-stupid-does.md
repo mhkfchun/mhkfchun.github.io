@@ -36,11 +36,15 @@ Learning from mistakes is sometimes better than even success. In [this person's 
 
 Their headline for starters reads: "What does the while(true) loop do in this C++ program?"
 
-The body of their question immediately starts with a link to a github. Though it's not available anymore, according to comments, it linked to multiple files with over hundreds of lines of code. It is also implied in the comments that this was all that was posted originally since they request they post code in their question, not just a link, as the question does contain code and further explanation currently.
+The body of their question immediately starts with a link to a github. Though it's not available anymore, according to comments, it linked to multiple files with over hundreds of lines of code. It is also implied in the comments that this was all that was posted originally since they request they post code in their question, not just a link. Currently, the question does contain code and further explanation though.
 
-The person continues and gives exposition about what the program overall does and what various parts of the program itself looks like. Three entire functions worth of code and only at the very end, does he reiterate that his question involves the while(true) loop and what it does. All of which is contained in the first 4-18  lines of maybe 60 lines of code given.
+The person continues and gives multiple lines of exposition about what the program overall does and what various parts of the program itself looks like. This is followed by three functions worth of code. Only at the very end, does he reiterate that his question involves the while(true) loop and what it does.
+
+The while(true) loop in question? That's contained in the first 4-18  lines of the 50+ lines of code given.
 
 ## What went wrong?
+
+<img class="ui medium center floated image" src="../images/to-do.png">
 
 Now for the analysis. The title has has some relevant information in it. You know they're asking about a while(true) loop and that this is in reference to a C++ program. However, asking so broadly what it does in the scope of the entire program, makes it seem like the answer could be very lengthy. This means it's possible less people are willing to take the time to answer.
 
@@ -57,6 +61,8 @@ The asker goes too far in the opposite direction and gives way too much with the
 Looking at the type of comments received, it's also apparent that things could have gone better. Though he does get a few answers to his question, the comments on his question itself are all just different critiques on the question itself. Most explaining similar things brought up here. In fact, the comments critiquing his question are more than double the number of answers themselves.
 
 ## What you should do
+
+<img class="ui medium center floated image" src="../images/checklist.jpg">
 
 A better example then, of what should be done is [here](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object).
 
