@@ -1,0 +1,52 @@
+---
+layout: essay
+type: essay
+title: Stupid Is As Stupid Does
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-30
+labels:
+  - Smart Questions
+  - Javascript
+---
+
+Throughout my years of school, there's been multiple cases of teachers encouraging their students to ask questions. Often with the phrase, "There's no such thing as a stupid question." It's a nice sentiment, but it's also absolutely wrong.
+
+## Why smart questions?
+
+<img class="ui tiny left circular floated image" src="../images/genericcode.jpg">
+
+We live in a modern fast-paced world where time is a hot commodity. Whether it's spending it making money, doing something we find fun like a hobby, spending time with friends and family, or just relaxing, we can't afford to waste it. So imagine going out of your way to answer someone who asks you, "What are your work hours?" when the store hours are directly in front of them in plain sight.
+
+Maybe in this situation you still reply respectfully, it's probably your job after all. However, when you're not on the clock, would you still do the same? Not everyone is kind enough to reply respectfully, even less people would even bother to answer in the first place. Across the internet where you don't have to speak directly, this applies even more so.
+
+This is where asking questions smartly and succinctly comes in. Using Stack Overflow as an example, we can look at questions that embody both the good and the bad.
+
+## What not to do: The Question
+
+<img class="ui tiny left circular floated image" src="../images/checkerblock.jpg">
+Learning from mistakes is sometimes better than even success. In [this person's case](https://stackoverflow.com/questions/49196281/what-does-the-whiletrue-loop-do-in-this-c-program), they likely learned quite a lot.
+
+Their headline for starters reads, "What does the while(true) loop do in this C++ program?"
+
+The body of their question immediately starts with a link to a github. Though it's not available anymore, according to comments, it linked to multiple files with over hundreds of lines of code. It is also implied in the comments that this was all that was posted originally since they request they post code in their question, not just a link, as the question does contain code and further explanation currently.
+
+The person continues and gives exposition about what the program overall does and what various parts of the program itself looks like. Three entire functions worth of code and only at the very end, does he reiterate that his question involves the while(true) loop and what it does. All of which is contained in the first 4-18  lines of maybe 60 lines of code given.
+
+## What went wrong?
+
+Now for the analysis. The title has has some relevant information in it. You know they're asking about a while(true) loop and that this is in reference to a C++ program. However, asking so broadly what it does in the scope of the entire program, makes it seem like the answer could be very lengthy. This means it's possible less people are willing to take the time to answer.
+
+The biggest mistake they make is firstly, originally only posting a link.
+
+*As one of the commenters mentions "Post code in the question - not a link. It's meaningless when the link goes stale or updated; and some proxys will ban github."*
+
+Making someone sift through your entire program for answers is a big no-no. You're supposed to do the work, not the one helping.
+
+The asker goes too far in the opposite direction and gives way too much with their in-question section. With all that code and only hiding their inquiry at the bottom means some people will click off before they even see what needs to be answered. As they say, less is more.
+
+## Responses
+
+Looking at the type of comments received, it's also apparent that things could have gone better. Though he does get a few answers to his question, the comments on his question itself are all just different critiques on the question itself. Most explaining similar things brought up here. In fact, the comments critiquing his question are more than double the number of answers themselves.
+
+## What to do, the right way.
+
