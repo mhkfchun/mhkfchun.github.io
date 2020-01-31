@@ -26,6 +26,8 @@ This is where asking questions smartly and succinctly comes in. There's a lot to
 * Have you done everything you can to get an answer yourself? 
 * Is your question easy to understand?
 
+Of course this is only a few of the many ways to make a question better.
+
 Using Stack Overflow as an example, we can look at questions that embody both the good and the bad.
 
 ## What not to do: The Question
