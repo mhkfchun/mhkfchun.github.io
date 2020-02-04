@@ -6,7 +6,7 @@ title: Stupid Is As Stupid Does
 date: 2020-01-30
 labels:
   - Smart Questions
-  - Javascript
+  - JavaScript
 ---
 
 Throughout my years of school, there's been multiple cases of teachers encouraging their students to ask questions. Often with the phrase, "There's no such thing as a stupid question." It's a nice sentiment, but it's also absolutely wrong.
@@ -23,7 +23,7 @@ This is where asking questions smartly and succinctly comes in. There's a lot to
 
 * Does it get your point across?
 * Have you explained everything required to answer your question?
-* Have you done everything you can to get an answer yourself? 
+* Have you done everything you can to get an answer yourself?
 * Is your question easy to understand?
 
 Of course this is only a few of the many ways to make a question better.
@@ -36,7 +36,7 @@ Learning from mistakes is sometimes better than even success. In [this person's 
 
 Their headline for starters reads: "What does the while(true) loop do in this C++ program?"
 
-The body of their question immediately starts with a link to a github. Though it's not available anymore, according to comments, it linked to multiple files with over hundreds of lines of code. It is also implied in the comments that this was all that was posted originally since they request they post code in their question, not just a link. Currently, the question does contain code and further explanation though.
+The body of their question immediately starts with a link to a GitHub. Though it's not available anymore, according to comments, it linked to multiple files with over hundreds of lines of code. It is also implied in the comments that this was all that was posted originally since they request they post code in their question, not just a link. Currently, the question does contain code and further explanation though.
 
 The person continues and gives multiple lines of exposition about what the program overall does and what various parts of the program itself looks like. This is followed by three functions worth of code. Only at the very end, does he reiterate that his question involves the while(true) loop and what it does.
 
@@ -46,7 +46,7 @@ The while(true) loop in question? That's contained in the first 4-18  lines of t
 
 <img class="ui medium center floated image" src="../images/to-do.png">
 
-Now for the analysis. The title has has some relevant information in it. You know they're asking about a while(true) loop and that this is in reference to a C++ program. However, asking so broadly what it does in the scope of the entire program, makes it seem like the answer could be very lengthy. This means it's possible less people are willing to take the time to answer.
+Now for the analysis. The title has some relevant information in it. You know they're asking about a while(true) loop and that this is in reference to a C++ program. However, asking so broadly what it does in the scope of the entire program, makes it seem like the answer could be very lengthy. This means it's possible less people are willing to take the time to answer.
 
 The biggest mistake they make is firstly, originally only posting a link.
 
@@ -74,7 +74,7 @@ Simple and to the point, this gets the question across clearly and directly stat
 
 ## Good responses
 
-The responses speak for themselves. Double digit answers, all explaining what the correct action to take is in this situation. A lot of them even going out of their way to explain why this is the case and other solutions depending on different factors. Clearly these respondants were enthusiastic to give help, and show off their knowledge to someone who may actually make use of it. A far cry from the response section of the other.
+The responses speak for themselves. Double digit answers, all explaining what the correct action to take is in this situation. A lot of them even going out of their way to explain why this is the case and other solutions depending on different factors. Clearly these respondents were enthusiastic to give help, and show off their knowledge to someone who may actually make use of it. A far cry from the response section of the other.
 
 ## In conclusion
 

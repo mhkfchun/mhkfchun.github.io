@@ -35,7 +35,7 @@ This is the classic guess the number game. It's a bit more thought provoking and
   <img class="ui image" src="../images/slots.png">
 </div>
 
-Lastly, we have a slot machine. This is the most simple mechanically, but probably the most complex in terms of visuals and code. It asks the player how many coins they want to bet between 1 and 3, and the slot machine spits out 3 symbols. Based on the matching symbols there's different payouts or none at all. Under the hood of the game, the program is built to work similarly to a real slot machine and has 3 reels which have differering amounts of each symbol on them. This creates the varying probability of each outcome and means the chances are weighted differently.
+Lastly, we have a slot machine. This is the most simple mechanically, but probably the most complex in terms of visuals and code. It asks the player how many coins they want to bet between 1 and 3, and the slot machine spits out 3 symbols. Based on the matching symbols there's different payouts or none at all. Under the hood of the game, the program is built to work similarly to a real slot machine and has 3 reels which have differing amounts of each symbol on them. This creates the varying probability of each outcome and means the chances are weighted differently.
 
 Through finally finishing this project and seeing it complete, I was able to see more clearly how to start putting various tools together and different applications of them. Through the slot machine it also helped me get more practice in at building a visual interface and presentation. It was also a great way to see how expansive I could get with my projects in a limited amount of time.
 
