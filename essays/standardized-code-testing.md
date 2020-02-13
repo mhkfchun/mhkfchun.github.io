@@ -19,7 +19,7 @@ Looking back now, I'm so glad I learned to respect coding standards early. At wo
 
 ## For The Masses
 
-<img class="ui medium center floated image" src="../images/hands.jpg">
+<img class="ui medium center floated image" src="../images/hands.png">
 
 When you're looking at code you shouldn't have to work to figure out what everything does. There's comments, formatting, and all other manner of ways to make it look presentable to someone else. Coding standards are a big part of that. When things become standardized, there's less to "work out". You don't have to second guess their code and can more easily see what the goal was. When everyone's following the same rules, picking up where someone left off speeds things up exponentially.
 
@@ -37,7 +37,7 @@ In the same vein of troubleshooting, using things like ESLint while following co
 
 ## Personal Opinions
 
-<img class="ui medium center floated image" src="../images/green-check.jpg">
+<img class="ui medium center floated image" src="../images/green-check.png">
 
 When I can put a little more effort in to save myself stress in the long run, I'm more than happy to take it. If it means my computer can tell me when I didn't do a good job and how to fix it, then even more so. It's also surprisingly satisfying when you start to catch yourself, even without the computer telling you something isn't right. Not to mention the relief of seeing a visible checkmark, telling you you're good to go. Practice makes perfect and getting used to it means forming good habits. You won't always be able to rely on the computer to do it for you, but until then I've got ESLint.
 
