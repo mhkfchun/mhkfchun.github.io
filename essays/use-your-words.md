@@ -73,7 +73,9 @@ Lastly, maybe the search icon wasn't big enough.  Perhaps if it was **large** it
 ```HTML
 <div class="ui inverted grid menu">
   <a class="ui item" href="about-us.html">About Us</a>
-  <a class="ui right item" href="search-site.html"><i class="large search icon"></i></a>
+  <a class="ui right item" href="search-site.html">
+    <i class="large search icon"></i>
+  </a>
 </div>
 ```
 
