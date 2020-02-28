@@ -12,8 +12,9 @@ labels:
 ---
 
 
-<img class="ui medium image" src="../images/lowes-real.png">
-<img class="ui medium image" src="../images/lowes-fake.png">
+<img class="ui large image" src="../images/lowes-real.png">
+
+<img class="ui large image" src="../images/lowes-fake.png">
 
 *Would you be able to tell which website is the real and the mock-up? Thanks to Semantics UI, this was much easier than you'd think.*
 
