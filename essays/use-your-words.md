@@ -16,7 +16,7 @@ labels:
 
 <img class="ui large image" src="../images/lowes-fake.png">
 
-*Would you be able to tell which website is the real one and which is the mock-up? Thanks to Semantics UI, this was much easier than you'd think.*
+*Can you tell which website is the real one and which is the mock-up? Thanks to Semantics UI, this was much easier than you'd think.*
 
 ## My Feelings Towards HTML
 Though I wouldn't say I'm completely familiar with HTML as a language, I've been working with it for multiple classes now. Each time I do it feels like such a love/hate relationship and it makes me uneasy. On one hand it's a lot more straightforward when you're trying to get it to do something unlike a regular coding program. On the other, it's a lot harder than it looks to get it to stay that way regardless of the situation.
