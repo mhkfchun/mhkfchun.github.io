@@ -12,8 +12,8 @@ labels:
 ---
 
 <div class="ui centered grid">
-  <img class="ui image" src="../images/lowes-real.png">
-  <img class="ui image" src="../images/lowes-fake.png">
+  <img class="ui small image" src="../images/lowes-real.png">
+  <img class="ui small image" src="../images/lowes-fake.png">
 </div>
 *Would you be able to tell which website is the real and the mock-up? Thanks to Semantics UI, this was much easier than you'd think.*
 
