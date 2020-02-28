@@ -11,6 +11,12 @@ labels:
   - Learning
 ---
 
+<div class="ui centered grid">
+  <img class="ui image" src="../images/lowes-real.png">
+  <img class="ui image" src="../images/lowes-fake.png">
+</div>
+*Would you be able to tell which website is the real and the mock-up? Thanks to Semantics UI, this was much easier than you'd think.*
+
 ## My Feelings Towards HTML
 Though I wouldn't say I'm completely familiar with HTML as a language, I've been working with it for multiple classes now. Each time I do it feels like such a love/hate relationship and it makes me uneasy. On one hand it's a lot more straightforward when you're trying to get it to do something unlike a regular coding program. On the other, it's a lot harder than it looks to get it to stay that way regardless of the situation.
 
@@ -18,6 +24,9 @@ It's a problem of *knowing* that you can set it up to look nice in the current b
 
 ## Becoming a CSS Fashionista
 CSS in comparison is a lot more simple in execution and more familiar territory. Select a place, object, or group on the page as a base and throw a few lines of code in to move it or make it look pretty. It's really versatile and can help your page go from an old 2000's blog to a professional website for some famous company. Of course beauty comes at a price. Those blocks of code can become pretty hefty depending on how much formatting needs to be done.
+
+<img class="ui image" src="../images/fabric-land.png">
+*Your CSS looks like this, so your website doesn't look like this*
 
 CSS can be a one stop shop for everything from position, text, shape, style, etc. This also means there's a lot to keep track of just to make your page look uniform. Paired with the amount of options to edit each part of the page, it can be overwhelming to get things just the way you want it.
 
