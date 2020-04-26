@@ -22,7 +22,9 @@ Through different forms of media, it can often be referenced in similar or broad
 
 Even a certain famous line with spidery origins, "With great power comes great responsibility", can easily fall under this term.
 
-Though, not all moments in the life of a Software Engineer may be as grandiose or life changing as being a super hero. However, sometimes even 4 simple words could change the lives of millions and have actions that cause waves around the world.
+Though, not all moments in the life of a software engineer may be as grandiose or life changing as being a super hero. However, sometimes even 4 simple words could change the lives of millions and have actions that cause waves around the world.
+
+Having this information in mind is part of what it means to be an ethical software developer.
 
 ## It's Just a Job
 
