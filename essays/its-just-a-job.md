@@ -54,7 +54,7 @@ While these things are all important to understanding ethics, not everything is 
 ## A Series of questions
 As mentioned in [his essay](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/#.tsjl7lkxy), a young Bill Sourour had landed a job working in coding for a marketing firm with a focus on medicine. His current assignment was to make a quiz that gave a recommendation of different drugs after answering some questions. At least on the surface this seemed harmless, but it is revealed that as per the client's instructions, nearly every choice should lead you to their drug they were trying to push. Unless you confirmed you were allergic or already taking it, you'd always get recommended their drug. Of course, to the young programmer, this was simply marketing and was just what his client wanted. What's the worst that could happen?
 
-<img class="ui medium right floated image" src="../images/cloud-light.jpg">
+<img class="ui medium right floated image" src="../images/medicine.jpg">
 
 He received his answer quickly enough. Soon after the site went up, a report of a girl who took the medicine had committed suicide. Apparently some of the main side effects were severe depression and suicidal thoughts. Due in part to his ignorance, it's possible a girl was no longer alive. What was more, his sister had been taking the same medicine. Thankfully she was convinced to stop and was otherwise safe, but since then even more incidents have been popping up.
 
