@@ -39,13 +39,14 @@ Will the comments and code help someone else to understand what I've done?
 
 Can this part of the code be exploited by a malicious user and is there checks to prevent that?
 
-These types of questions have been drilled into my head through my years of learning programming. They always help me keep the perspective of the users and my peers in mind. It's with this type of thinking that you get a step closer to understanding ethics as a software developer.
+<br>
 
-<img class="ui medium center floated image" src="../images/cloud-light.jpg">
+These types of questions have been drilled into my head through my years of learning programming. They always help me keep the perspective of the users and my peers in mind. It's with this type of thinking that you get a step closer to understanding ethics as a software developer.
 
 Ethics to me is a complex combination of both human empathy and emotion with the hard logic that allows people to form a proper response and action to a given situation. Without logic, there is no reason. Without the human element, there is no morality. Only with these two combined with deliberation can someone act in a way that approaches the concept of being ethical.
 
-<br>
+<img class="ui medium center floated image" src="../images/cloud-light.jpg">
+
 In more simple terms, it's how we decide between what is right or wrong in a given situation. For a software developer, this comes in the form of your software itself, the practices you put forth, and your responsibilities as a professional. Things like making sure your code is helpful to both peers and the end user. Whether your company and partners are all well informed of any problems and issues that may occur and how they have been handled. Making sure your code is in working order and made to the best of its ability. Whether the program itself is accessible to as many people as possible and takes into account the differences between users. It's a lot to take in and is by no means a complete list, nor can everyone can be perfect. However, taking steps to ensure you strive for that perfection, being willing to do your part to fix the mistakes you've made, and owning up to the consequences is just as important as not making the mistake in the first place.
 
 While these things are all important to understanding ethics, not everything is always as surface level as this. Your responsibility as a fellow human being and the consequences of those actions need to be just as heavily considered. This is something that teacher Bill Sourour learned the hard way.
