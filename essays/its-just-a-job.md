@@ -12,7 +12,6 @@ labels:
 ## Noblesse Oblige
 
 <img class="ui medium center floated image" src="../images/knight.jpg">
-
 Nobility obligates, or the obligations to others that come from being Nobility, there can be multiple interpretations of this word of French origin.
 
 Through different forms of media, it can often be referenced in similar or broader terms:
@@ -28,7 +27,6 @@ Though, not all moments in the life of a Software Engineer may be as grandiose o
 ## It's Just a Job
 
 <img class="ui medium center floated image" src="../images/woman-working.jpg">
-
 I hear these words all the time. I'm even guilty of it myself. Working at some regular job that you're used to, going through the motions. You just want to clock in, clock out, and get paid. At the end of the day, that's all that matters right?
 
 Of course not. **You're** the one in power right now. **You're** the one with obligations.
@@ -48,6 +46,7 @@ Though the last one may have been a little deep, these types of questions have b
 <img class="ui medium center floated image" src="../images/cloud-light.jpg">
 
 Ethics to me is a complex combination of both human empathy and emotion with the hard logic that allows people to form a proper response and action to a given situation. Without logic, there is no reason. Without the human element, there is no morality. Only with these two combined with deliberation can someone act in a way that approaches the concept of being ethical.
+
 
 In more simple terms, it's how we decide between what is right or wrong in a given situation. For a software developer, this comes in the form of your software itself, the practices you put forth, and your responsibilities as a professional. Things like making sure your code is helpful to both peers and the end user. Whether your company and partners are all well informed of any problems and issues that may occur and how they have been handled. Making sure your code is in working order and made to the best of its ability. Whether the program itself is accessible to as many people as possible and takes into account the differences between users. It's a lot to take in and is by no means a complete list, nor can everyone can be perfect. However, taking steps to ensure you strive for that perfection, being willing to do your part to fix the mistakes you've made, and owning up to the consequences is just as important as not making the mistake in the first place.
 
