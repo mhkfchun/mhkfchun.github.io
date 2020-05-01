@@ -17,13 +17,13 @@ A lone man waits on a city curb for someone. Their hoodie and jeans don't make t
 
 The police back at the office are thrilled that their undercover cop had gotten the information and evidence they needed. All they need to do now is to send someone in to handle the job. To do this, they hand things over to dispatch and they send a message to the cops in the area. They need someone to get to a certain address. If they're lucky, they can catch the dealer there and they can finally close this case. A police officer responds quickly, and they're off to the address. Soon after, they get another phone call.
 
-Sprinting through the alleyways with gunshots echoing across the walls of the buildings, the undercover cop, having abandoned his hoodie to increase his speed, turns a corner. Perhaps he should have been more careful. While trying to contact headquarters, having pulled out his badge, the dealer had doubled back to ease his suspicions. Upon seeing the shiny piece of metal, he decided to call for his own backup. Within minutes, the cop had found himself being chased through the back alleyways. Phone in hand, he prayed for headquarters to pickup. Their information had changed.
+Sprinting through the alleyways with gunshots echoing across the walls of the buildings, the undercover cop, having abandoned his hoodie to increase his speed, turns a corner. Perhaps he should have been more careful. While trying to contact headquarters, having pulled out his badge, the dealer had doubled back to ease his suspicions. Upon seeing the shiny piece of metal, he decided to call for his own backup. Within minutes, the cop had found himself being chased through the back alleyways. Phone in hand, he prayed for headquarters to pick up. Their information had changed.
 
 ## Patterns Repeat Itself
 
 Design Patterns are kind of like a template. Its name is pretty self explanatory. There are certain problems that may occur in any number of given situations. Once recognized as a pattern, if a solution is found then you should be able to take that answer and apply it to the other situations within that pattern. Over time new, and hopefully more optimal, solutions for the situation can be found, and these design patterns are what you get. That way if the situation is encountered again elsewhere, the answer is already readily available.
 
-Though there are many design patterns for all kinds of different interfaces, languages, even professions, there are a few that I'd like to go over, both in respect to what they do in my code, as well as how they apply to the short story up there.
+Though there are many design patterns for all kinds of different interfaces, languages, and even professions, there are a few that I'd like to go over. Both in respect to what they do in my code, as well as how they apply to the short story up there.
 
 ## Model-View-Controller Design
 
@@ -31,7 +31,7 @@ Though there are many design patterns for all kinds of different interfaces, lan
 
 This design is sort of a bigger picture style of design which covers the way a web application runs its data and displays it to the user as a whole. The model establishes the database and the backend of the website, the view establishes how the visuals displayed on the site are set up, and the controller allows the interaction between these two parts to go smoothly. Even within this design the parts you use for each section can be interchanged and swapped out as necessary depending on the necessities required.
 
-In some ways, this design works like an outfit. There's different appearances for different occasions and how you prepare for that appearance using makeup, pins, or clips. All of which aren't necessarily meant to be seen and are the backend making it work. How you apply those things and adjust them to make yourself look good is how you interface between the backend and the outward appearance.
+In some ways, this design works like an outfit. There's different appearances for different occasions as well as how you prepare for that appearance using makeup, pins, or clips. All things which aren't necessarily meant to be seen, but are the backend making it work. How you apply those things and adjust them to make yourself look good is how you interface between the backend and the outward appearance.
 
 Looking like a cop for instance, may be a good way to get a civilian's attention and compliance. A bullet proof vest, holsters, and other more concealed pieces help to interface with potential situations encountered by the officer. However, in a situation where you're undercover, all of that doesn't matter if it's just going to make you stick out like a sore thumb.
 
