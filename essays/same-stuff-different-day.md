@@ -17,7 +17,7 @@ A lone man waits on a city curb for someone. Their hoodie and jeans don't make t
 
 The police back at the office are thrilled that their undercover cop had gotten the information and evidence they needed. All they need to do now is to send someone in to handle the job. To do this, they hand things over to dispatch and they send a message to the cops in the area. They need someone to get to a certain address. If they're lucky, they can catch the dealer there and they can finally close this case. A police officer responds quickly, and they're off to the address. Soon after, they get another phone call.
 
-Sprinting through the alleyways with gunshots echoing across the walls of the buildings, the undercover cop, having abandoned his hoodie to increase his speed, turns a corner. Perhaps he should have been more careful. While trying to contact headquarters, having pulled out his badge, the dealer had doubled back to ease his suspicions. Upon seeing the shiny piece of metal, he decided to call for his own backup. Within minutes, the cop had found himself being chased through the back alleyways. Phone in hand, he waited for headquarters to pickup. The information had changed.
+Sprinting through the alleyways with gunshots echoing across the walls of the buildings, the undercover cop, having abandoned his hoodie to increase his speed, turns a corner. Perhaps he should have been more careful. While trying to contact headquarters, having pulled out his badge, the dealer had doubled back to ease his suspicions. Upon seeing the shiny piece of metal, he decided to call for his own backup. Within minutes, the cop had found himself being chased through the back alleyways. Phone in hand, he prayed for headquarters to pickup. Their information had changed.
 
 ## Patterns Repeat Itself
 
@@ -29,11 +29,11 @@ Though there are many design patterns for all kinds of different interfaces, lan
 
 <img class="ui medium center floated image" src="../images/police.jpg">
 
-This design is sort of a bigger picture style of design which covers the way a web application runs its data and displays it to the user as a whole. The model establishes the database and the backend of the website, the view establishes how the visual displayed on the site is set up, and the controller allows the interaction between these two parts to go smoothly. Even within this design the parts you use for each section can be interchanged and swapped out as necessary depending on the necessities required.
+This design is sort of a bigger picture style of design which covers the way a web application runs its data and displays it to the user as a whole. The model establishes the database and the backend of the website, the view establishes how the visuals displayed on the site are set up, and the controller allows the interaction between these two parts to go smoothly. Even within this design the parts you use for each section can be interchanged and swapped out as necessary depending on the necessities required.
 
-In some ways, this design works like an outfit. There's different appearances for different occasions and how you prepare for that appearance using makeup, pins, clips, all that aren't necessarily meant to be seen are the backend making it work. How you apply those things and adjust them to make yourself look good is how you interface between the backend and the outward appearance.
+In some ways, this design works like an outfit. There's different appearances for different occasions and how you prepare for that appearance using makeup, pins, or clips. All of which aren't necessarily meant to be seen and are the backend making it work. How you apply those things and adjust them to make yourself look good is how you interface between the backend and the outward appearance.
 
-Looking like a cop for instance, may be a good way to get a civilian's attention and compliance. A bullet proof vest, holsters, and other more concealed pieces help to interface with potential situations encountered by the officer. In a situation where you're undercover, that's just going to make you stick out like a sore thumb.
+Looking like a cop for instance, may be a good way to get a civilian's attention and compliance. A bullet proof vest, holsters, and other more concealed pieces help to interface with potential situations encountered by the officer. However, in a situation where you're undercover, all of that doesn't matter if it's just going to make you stick out like a sore thumb.
 
 ## Observer Design
 
@@ -41,7 +41,7 @@ Speaking of undercover cops, observer designs work a little similarly. Being und
 
 In the same way, observer design is meant to have parts which know to notify the observers when something they're interested in happens, letting the rest of the relevant components know to do something.
 
-This is used frequently with buttons and other interactive elements that listen for an interaction so they can be told to submit a form, or change the input data.
+This is used frequently with buttons and other interactive elements that listen for an interaction so they can be told to submit a form or change the input data.
 
 ## Publish-Subscribe Design
 
@@ -63,15 +63,16 @@ In our web application this is used in conjunction with the publish-subscribe de
 
 ## Reactive Data Design
 
-When police headquarters finally got that phone call by the end of the story, a lot of things probably had to have happened and they'll need to change their information. Not only is the address search probably a no-go, they'll probably want to instead have their cops sent on their way to assist in the one currently being chased through the streets. It's this fast reaction to the change that may save that cop's life.
+When police headquarters finally got that phone call by the end of the story, a lot of things probably had to have happened and they'll need to change their information. Not only is the home search probably a no-go, they'll probably want to instead have their cops sent on their way to assist in the one currently being chased through the streets. It's this fast reaction to the change that may save that cop's life.
 
 In a web application, the fast reaction to change is important in a different way. Displaying outdated information is messy and potentially disastrous. This is why you want to make sure that if anything changes in the data, that your website updates to reflect that.
 
-This is shown in our web application as deleting and editing data through our web page will visually update the change and the post that has been deleted is not listed anymore.
+This is shown in our web application as deleting and editing data through our web page will visually update the change and the post that has been deleted will not be listed anymore.
 
 ## Reinventing the Wheel
 
-<img class="ui medium center floated image" src="../images/pattern.jpg">
+<img class="ui medium center floated image" src="../images/wheel.jpg">
 
-There's a lot of problems to be solved out there. Thankfully, for some of them the work has already been done for us. Thanks to the work of people before us, we don't always have to wrack our brains for a new solution. Sometimes things may call for innovation, but in the rest of them:
+There's a lot of problems to be solved out there. Thankfully for some of them the work has already been done for us. Thanks to the work of people before us, we don't always have to wrack our brains for a new solution. Sometimes things may call for innovation. In the rest of them:
+
 **If it ain't broke, don't fix it.**
