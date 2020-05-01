@@ -69,6 +69,9 @@ In a web application, the fast reaction to change is important in a different wa
 
 This is shown in our web application as deleting and editing data through our web page will visually update the change and the post that has been deleted is not listed anymore.
 
-## Last Paragraph
+## Reinventing the Wheel
 
 <img class="ui medium center floated image" src="../images/pattern.jpg">
+
+There's a lot of problems to be solved out there. Thankfully, for some of them the work has already been done for us. Thanks to the work of people before us, we don't always have to wrack our brains for a new solution. Sometimes things may call for innovation, but in the rest of them:
+**If it ain't broke, don't fix it.**
