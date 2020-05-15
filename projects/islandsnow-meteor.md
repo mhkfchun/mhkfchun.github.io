@@ -5,7 +5,7 @@ image: images/islandsnow-meteor.png
 title: Island Snow Mock-Up (Meteor)
 permalink: projects/islandsnow-meteor
 # All dates must be YYYY-MM-DD format!
-date: 2020-3-12
+date: 2020-03-12
 labels:
   - Meteor
   - React
