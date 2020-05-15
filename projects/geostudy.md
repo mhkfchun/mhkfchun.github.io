@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/geostudy-logo.png
+image: images/geostudy-logo-bg.png
 title: GEOstudy
 permalink: projects/geostudy
 # All dates must be YYYY-MM-DD format!
