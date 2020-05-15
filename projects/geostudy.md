@@ -14,7 +14,7 @@ labels:
 summary: The final project of ICS 314 where we needed to create a fully functioning site for adding and rating study locations around UH Campus.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/landing.png">
+<img class="ui rounded image" src="/images/landing.png">
 
 This project was quite the large undertaking at the start. Our group had been assigned to make a website that took user created study locations called "Study Spots" and display information about them while allowing other users to view, rate, and make use of that information to find themselves better places to study.
 
@@ -24,7 +24,7 @@ This was a great learning experience for myself as it challenged me to use every
 
 While I made multiple pages on the website including the Admin centric pages that allowed a logged in Administrator to view various data associated with our website and edit, delete, and add to them as necessary, the largest portion that I had contributed definitely came from the View Study Spots page.
 
-<img class="ui medium right floated rounded image" src="/images/study-spots-admin.png">
+<img class="ui rounded image" src="/images/study-spots-admin.png">
 
 Within the Study Spots page, logged in users were able to view each Study Spot submitted to the website as well as all the information for each one. Within each Study Spot section, there is a rating component implemented that allows users to view the current rating of each spot as well as how many people have rated it. Below this, the site is able to tell whether the current user has rated the Study Spot and either ask them to rate it if they have tried it, or give them their previous rating and allow them to re-rate the spot, changing their existing rating. This component was interactive and rating a spot or changing an existing one could change the shown average of stars listed.
 

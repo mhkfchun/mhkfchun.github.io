@@ -15,7 +15,7 @@ summary: A mock-up page of the Island Snow home page, recreated using Semantics 
 
 This mock-up page was one of the earlier assignments that taught us how to get familiar with Meteor while using Semantics UI and React. While running Meteor, we were able to view our pages and edit them while seeing those changes in real time. Since we had worked with making mock-up pages with Island Snow before, it allowed us to focus more on what things could be translated over from Semantics-UI and React and what would need to be different. This also helped us get familiar with maneuvering around the project folders a little bit.
 
-<div class="ui large rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/islandsnow-meteor.jpg">
 </div>
 
