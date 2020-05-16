@@ -22,7 +22,7 @@ This project was quite the large undertaking at the start. Our group had been as
 
 We used Github to collaborate and used issue driven project management to keep track of our progress and quickly add to the website as we found new issues that needed to be solved throughout our development.
 
-This was a great learning experience for myself as it challenged me to use everything I had learned in ICS 314 up till that point. Meteor to get the website up and running, Semantics UI-React to create the various interfaces in HTML, and Javascript to make the website interactive and function properly. It also added new elements into the mix such as MongoDB and full deployment to Meteor's servers, though for monetary purposes this working site had to be taken down. At the bottom of the page, a link to our organization's page as well as access to our home page can get you started in trying out our website for yourself.
+This was a great learning experience for myself as it challenged me to use everything I had learned in ICS 314 up until that point. Meteor to get the website up and running, Semantics UI-React to create the various interfaces in HTML, and Javascript to make the website interactive and function properly. It also added new elements into the mix such as MongoDB and full deployment to Meteor's servers, though for monetary purposes this working site had to be taken down. At the bottom of the page, a link to our organization's page as well as access to our home page can get you started in trying out our website for yourself.
 
 ## Contributions
 
@@ -46,11 +46,11 @@ While on the surface it may not look like a lot, to implement each piece of the 
 
 ## With More Time...
 
-If I were to do this project again, I would definitely do more initial planning to better understand how the data flowed and how each piece of the website worked and what we needed to make the site more fully functional. Without a clear goal, there was a lot of changes and additions that made our beginning a bit of a rocky start.
+If I were to do this project again, I would definitely do more initial planning to better understand how the data flowed and how each piece of the website worked and what we needed to make the site more fully functional. Without a clear goal, there was a lot of changes and additions that made our beginning a bit of a slow start.
 
-I'd also liked to have more time to properly clean up the site and focus on the design just as much as the functionality. While I think the site looks presentable, it could definitely have extra touches here and there to make it feel more personalized and clean.
+I'd have also liked to have had more time to properly clean up the site and focus on the design just as much as the functionality. While I think the site looks presentable, it could definitely have extra touches here and there to make it feel more personalized and clean.
 
-The last place I'd like to have improved on is the code. The time restraints were difficult and with so much left to finish, functionality and making sure there were no errors had to come before cleaning up. While I deeply regret not being able to keep up to coding standards, I think I still did a good job despite the shortcomings.
+The last place I'd like to have improved on is the code. The time restraints were difficult and with so much left to finish, functionality and making sure there were no errors had to come before cleaning up. While I deeply regret not being able to keep up to coding standards, I think I still did a good job despite the shortage of time.
 
 ## Links to the Website
 
