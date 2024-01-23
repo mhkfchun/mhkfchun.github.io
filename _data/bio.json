@@ -24,40 +24,10 @@
   },
   "interests": [
     {
-      "name": "Programming",
-      "keywords": [
-
-      ]
+      "name": "Programming"
     },
     {
-      "name": "Game Development",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Video Games",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Streaming",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Anime",
-      "keywords": [
-
-      ]
-    },
-    {
-      "name": "Trading Card Games",
-      "keywords": [
-
-      ]
+      "name": "Game Development"
     }
   ],
   "skills": [
