@@ -10,16 +10,11 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
-      {
-        "network": "github",
-        "username": "mhkfchun",
-        "url": "http://github.com/mhkfchun"
-      },
       {
         "network": "linkedin",
         "username": "mhkfchun",
