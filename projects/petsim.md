@@ -18,7 +18,7 @@ summary: Using the template for a base VR game in Unity and free assets, I creat
 This was the final project of my ICS 486 class, Virtual & Augmented Reality Programming. We had to implement spatial sound (distance/location based sound effects) and interaction with the environment in some way using the VR capabilities within Unity. I designed this pet simulator as a way to interact with your virtual dog, playing games like fetch and feeding them to earn coins you could use for home decorations and other features.
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/dice game.png">
+  <img class="ui image" src="/images/dice game.png">
 </div>
 
 ## What I learned

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/islandsnow-logo.png
 title: Cipher Guardian (Java)
-permalink: projects/password-manager
+permalink: projects/cipher-guardian
 # All dates must be YYYY-MM-DD format!
 date: 2023-6-23
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: Cipher Guardian is a java based password manager that allows you to generate, store, and retrieve your passwords, all stored securely in a database using a generated file.
 ---
 
-<img class="ui centered image" src="../images/cipher-guardian.png">
+<img class="ui centered image" src="/images/cipher-guardian.png">
 
 ## Overview
 
