@@ -5,7 +5,7 @@ image: images/geostudy-logo-bg.png
 title: GEOstudy
 permalink: projects/geostudy
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-13
+date: 2020-5-13
 labels:
   - Javascript
   - Meteor
@@ -14,7 +14,7 @@ labels:
 summary: The final project of ICS 314 where we needed to create a fully functioning site for adding and rating study locations around UH Campus.
 ---
 
-<img class="ui centered rounded image" src="/images/landing.png">
+<img class="ui centered rounded image" src="../images/landing.png">
 
 ## Overview
 

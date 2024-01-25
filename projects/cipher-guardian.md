@@ -13,7 +13,7 @@ labels:
 summary: Cipher Guardian is a java based password manager that allows you to generate, store, and retrieve your passwords, all stored securely in a database using a generated file.
 ---
 
-<img class="ui centered image" src="/images/cipher-guardian.png">
+<img class="ui centered image" src="../images/cipher-guardian.png">
 
 ## Overview
 

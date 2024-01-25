@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "github",
+        "username": "mhkfchun",
+        "url": "http://github.com/mhkfchun"
+      },
+      {
         "network": "linkedin",
         "username": "mhkfchun",
         "url": "https://www.linkedin.com/in/michael-chun-72a68219b/"

@@ -5,7 +5,7 @@ image: images/slotprofile.png
 title: Pet Sim (Unity VR)
 permalink: projects/petsim
 # All dates must be YYYY-MM-DD format!
-date: 2023-12-06
+date: 2023-12-6
 labels:
   - Unity
   - Virtual Reality
