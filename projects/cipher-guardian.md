@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/islandsnow-logo.png
+image: images/cipher-guardian-title.png
 title: Cipher Guardian (Java)
 permalink: projects/cipher-guardian
 # All dates must be YYYY-MM-DD format!
