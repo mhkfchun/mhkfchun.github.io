@@ -6,11 +6,11 @@
     "email": "mhkfchun@gmail.com",
     "phone": "808-927-5877",
     "website": "https://mhkfchun.github.io",
-    "summary": "I'm a graduate of UH Manoa with a BA in Information Computer Science as of December 2023.",
+    "summary": "I am currently a Bank Teller for First Hawaiian Bank and graduate of UH Manoa with a BA in Information Computer Science.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Mililani",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -64,7 +64,8 @@
         "Teaching",
         "Troubleshooting",
         "Organization",
-        "Work Presentation"
+        "Work Presentation",
+        "Bank Operations"
       ]
     }
   ],
@@ -139,6 +140,18 @@
         "Assist teacher assistant with conductiong lab sectiosn and presenting during lectures",
         "Conduct office hours for students, answering questions and tutoring students",
         "Help plan and organize lessons for students with teacher assistant"
+      ]
+    },
+    {
+      "company": "First Hawaiian Bank",
+      "position": "Bank Teller",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Assisti customers with transactions and helping answer any banking related inquiries",
+      "highlights": [
+        "Educate customers on products and services that will benefit them and their finances",
+        "Handle multiple responsibilities outside of the teller position to ensure workplace is able to run smoothly",
       ]
     }
   ],
